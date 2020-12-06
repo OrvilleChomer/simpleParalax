@@ -1,11 +1,11 @@
 # simpleParallax Repo
-Simple Parallax JavaScript Library
+A Simple Parallax JavaScript Library.
 
 
  Simple Parallax for web page.
    A non-accurate (just going for relatively good looking),
    very easy to use library for adding paralax effect to your web page.
-   Users will see the 
+   Users will see the parallax effect as they move their mouse over the page.
    
    Add the following line to your web page:
    
