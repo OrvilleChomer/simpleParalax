@@ -1,18 +1,19 @@
-# simpleParalax
-Simple Paralax JavaScript Library
+# simpleParallax
+Simple Parallax JavaScript Library
 
 
- Simple Paralax for web page.
+ Simple Parallax for web page.
    A non-accurate (just going for relatively good looking),
    very easy to use library for adding paralax effect to your web page.
+   Users will see the 
    
    Add the following line to your web page:
    
-      <script src="simpleParalax.js"></script>
+      <script src="simpleParallax.js"></script>
    
    To add a paralax layer:
    
-      const myNewLayer = simpleParalax.addLayer()
+      const myNewLayer = simpleParallax.addLayer()
       
    Add your visual content to the layer:
   
