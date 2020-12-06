@@ -1,4 +1,4 @@
-# simpleParallax
+# simpleParallax Repo
 Simple Parallax JavaScript Library
 
 
